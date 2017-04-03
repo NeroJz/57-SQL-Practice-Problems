@@ -10,9 +10,12 @@ The task becomes more overwhelming with the increase complexity of the relations
 
 <p>
 Many existing frameworks provide solution like (ORM or ActiveRecord) to simplify the development process.<br>
-However, very often the developers need to write their own SQL statement in order to improve 
-the performance of the backend side.<br/>
-This includes using Stored Procedure, Stored Function as well as View.
+The solution above deemed ideal when dealing with small number of records.  You can loop through the recordset to
+generate desired output from the application level.<br/>
+However, the performance tends to suffer when you are dealing with large number of records (millions).
+In addition, the application may experience maximum timeout issues.<br/>
+Under such circumstances, using SQL statements to optimize the performance is the ideal solution.<br/>
+The solutions include using Stored Procedure, Stored Function as well as View.
 </p>
 
 <p>
