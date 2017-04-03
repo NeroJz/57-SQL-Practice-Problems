@@ -1,0 +1,669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Order",
+				"OrderDate"
+			],
+			[
+				"Cus",
+				"CustomerGroup"
+			],
+			[
+				"Em",
+				"Employees"
+			],
+			[
+				"Emplo",
+				"EmployeeID"
+			],
+			[
+				"Empl",
+				"EmployeeID"
+			],
+			[
+				"Pro",
+				"ProductID"
+			],
+			[
+				"Ca",
+				"CategoryID"
+			],
+			[
+				"Suppl",
+				"SupplierID"
+			],
+			[
+				"Cont",
+				"ContactTitle"
+			],
+			[
+				"C",
+				"Country"
+			],
+			[
+				"Shi",
+				"ShipCountry"
+			],
+			[
+				"Produ",
+				"ProductName"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"post",
+				"post_list"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"succ",
+				"success"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"is_",
+				"is_valid"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"Pos",
+				"PostForm"
+			],
+			[
+				"post_",
+				"post_detail"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"po",
+				"post_list"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"p",
+				"posts_view"
+			],
+			[
+				"Po",
+				"PostAdmin"
+			],
+			[
+				"http_bu",
+				"http_build_query"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"c",
+				"ctx"
+			],
+			[
+				"ch",
+				"checkin_date"
+			],
+			[
+				"DA",
+				"DATEDIFF"
+			],
+			[
+				"che",
+				"checkout_date"
+			],
+			[
+				"check",
+				"checkin_date"
+			],
+			[
+				"sal",
+				"salary"
+			],
+			[
+				"empl",
+				"employee_id"
+			],
+			[
+				"SE",
+				"SET"
+			],
+			[
+				"emp",
+				"employee_id"
+			],
+			[
+				"da",
+				"day_of_week"
+			],
+			[
+				"va",
+				"var4"
+			],
+			[
+				"DE",
+				"DELIMITER"
+			],
+			[
+				"inv",
+				"invoiced_date"
+			],
+			[
+				"in",
+				"invoice"
+			],
+			[
+				"idx",
+				"idx_ip_address_all_chars"
+			],
+			[
+				"ip_",
+				"ip_address_varchar20"
+			],
+			[
+				"idx_ip_",
+				"idx_ip_address_3chars"
+			],
+			[
+				"i",
+				"ip_address_varchar20"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"id",
+				"idx_ip_address_7chars"
+			],
+			[
+				"de",
+				"department_employee_rel"
+			],
+			[
+				"sel",
+				"self_json"
+			],
+			[
+				"se",
+				"seller1"
+			],
+			[
+				"us",
+				"User"
+			],
+			[
+				"g",
+				"get_name"
+			],
+			[
+				"user",
+				"user2"
+			],
+			[
+				"use",
+				"user1"
+			],
+			[
+				"get",
+				"get_area_code"
+			],
+			[
+				"ci",
+				"city_name"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"di",
+				"dial_dictionary"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"fir",
+				"first_num"
+			],
+			[
+				"fi",
+				"first_num"
+			],
+			[
+				"reve",
+				"reverse"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"l",
+				"last_name"
+			],
+			[
+				"Re",
+				"Repo"
+			],
+			[
+				"getU",
+				"getUserRepos"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"client",
+				"clientSecret"
+			],
+			[
+				"Reac",
+				"ReactDOM"
+			],
+			[
+				"comm",
+				"commentList"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"s",
+				"socket"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"box",
+				"box3"
+			],
+			[
+				"ad",
+				"addWidth"
+			],
+			[
+				"add",
+				"addClass"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime linter",
+			"sublime lin",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/MacBookPro/Desktop/57 Sql Practice/055.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/001.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/002.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/003.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/005.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/006.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/007.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/008.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/009.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/056.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/053.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/054.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/057.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/050.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/051.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/052.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/045.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/047.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/048.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/049.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/015.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/043.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/042.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/044.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/046.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/040.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/041.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/039.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/038.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/32.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/033.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/034.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/035.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/036.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/037.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/027.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/028.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/029.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/030.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/031.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/021.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/022.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/023.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/024.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/025.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/026.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/020.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/019.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/016.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/017.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/018.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/013.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/014.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/010.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/011.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/012.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/8.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/7.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/6.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/4.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/5.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/1.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/2.sql",
+		"/Users/MacBookPro/Desktop/57 Sql Practice/3.sql",
+		"/Users/MacBookPro/Downloads/mySQL NorthwindDB/mySQL NorthwindDB.sql",
+		"/Users/MacBookPro/Desktop/trydjango19/src/posts/views.py",
+		"/Users/MacBookPro/Desktop/trydjango19/src/templates/base.html",
+		"/Users/MacBookPro/Desktop/trydjango19/src/templates/post_detail.html",
+		"/Users/MacBookPro/Desktop/trydjango19/src/templates/post_list.html",
+		"/Users/MacBookPro/Desktop/trydjango19/src/templates/messages_display.html",
+		"/Users/MacBookPro/Desktop/trydjango19/src/templates/post_form.html",
+		"/Users/MacBookPro/Desktop/trydjango19/src/templates/index.html",
+		"/Users/MacBookPro/Desktop/trydjango19/src/posts/models.py",
+		"/Users/MacBookPro/Desktop/trydjango19/src/posts/urls.py",
+		"/Users/MacBookPro/Desktop/trydjango19/src/posts/forms.py",
+		"/Users/MacBookPro/Desktop/trydjango19/src/posts/admin.py",
+		"/Users/MacBookPro/Desktop/trydjango19/src/trydjango19/urls.py",
+		"/Users/MacBookPro/Desktop/trydjango19/src/templates/untitled.py",
+		"/Users/MacBookPro/Desktop/trydjango19/src/trydjango19/settings.py",
+		"/Users/MacBookPro/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MacBookPro/Desktop/trydjango19/src/posts/tests.py",
+		"/Users/MacBookPro/Desktop/trydjango19/src/posts/apps.py",
+		"/Users/MacBookPro/Downloads/mysqlspp.sql",
+		"/Users/MacBookPro/Downloads/jquery-migrate-1.4.1.min.js",
+		"/Users/MacBookPro/Desktop/MySQL_Codes/049.sql",
+		"/043.sql",
+		"/Applications/AMPPS/www/fire-cloud-messaging/application/controllers/Dashboard.php",
+		"/Users/MacBookPro/Desktop/MySQL_Codes/037.sql",
+		"/Users/MacBookPro/Desktop/MySQL_Codes/036.sql",
+		"/Users/MacBookPro/Desktop/MySQL_Codes/029.sql",
+		"/Users/MacBookPro/Desktop/MySQL_Codes/025.sql",
+		"/Users/MacBookPro/Documents/others/PHPExcel_1.8.0_doc/Examples/06largescale.php",
+		"/Users/MacBookPro/Documents/others/PHPExcel_1.8.0_doc/Examples/06largescale-with-cellcaching-sqlite3.php",
+		"/Users/MacBookPro/Documents/others/PHPExcel_1.8.0_doc/Examples/06largescale-with-cellcaching-sqlite.php",
+		"/Applications/AMPPS/www/fire-cloud-messaging/assets/js/dashboard/fcm_action.js",
+		"/Applications/AMPPS/www/fire-cloud-messaging/application/models/Types_m.php",
+		"/Applications/AMPPS/www/fire-cloud-messaging/application/views/dashboard/form.php",
+		"/Users/MacBookPro/Downloads/kiosk-web/display.php",
+		"/Users/MacBookPro/Desktop/rku-mobile-2016/www/js/app.js",
+		"/Users/MacBookPro/Desktop/rku-mobile-2016/www/apps/app.js",
+		"/Applications/AMPPS/www/fire-cloud-messaging/application/core/MY_Controller.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader01.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader03.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader05.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader04.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader06.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader07.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader08.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader09.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader10.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader11.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader12.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader14.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader13.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader15.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader16.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader18.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader19.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader17.php",
+		"/Users/MacBookPro/Downloads/PHPExcel_1.8.0_doc/Documentation/Examples/Reader/exampleReader02.php",
+		"/Users/MacBookPro/Desktop/test1/app/views/layouts/assignment.html",
+		"/Users/MacBookPro/Desktop/test1/README.rdoc",
+		"/Users/MacBookPro/Desktop/test1/Gemfile.lock",
+		"/Users/MacBookPro/Desktop/test1/Gemfile",
+		"/Users/MacBookPro/Desktop/test1/db/seeds.rb",
+		"/Users/MacBookPro/Desktop/test1/config/database.yml",
+		"/Users/MacBookPro/Desktop/test1/app/views/layouts/application.html.erb",
+		"/Users/MacBookPro/Desktop/test1/config/environments/test.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"load()",
+			"load",
+			"hk",
+			"en",
+			"zh",
+			"data-charge",
+			"ttArray",
+			"menu",
+			"holdSeat",
+			"formSeatOnclickJS",
+			"drawSeat",
+			"exceedMaxSeatOverlay",
+			"exceedMaxSeat",
+			"checkStatusByRowCol",
+			"get_colFilterString",
+			"comment",
+			"user",
+			"css",
+			"img",
+			"toString",
+			"attendees",
+			"role",
+			"roel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sql-practice.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
